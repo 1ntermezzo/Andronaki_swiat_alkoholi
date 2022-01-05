@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.exe
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.deps.json
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.runtimeconfig.json
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.runtimeconfig.dev.json
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.dll
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\bin\Debug\netcoreapp3.1\andronaki_61147.pdb
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.Form1.resources
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.AssemblyInfo.cs
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.dll
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.pdb
+C:\Users\Home\Desktop\Andronaki_swiat_alkoholi\andronaki_61147\andronaki_61147\obj\Debug\netcoreapp3.1\andronaki_61147.genruntimeconfig.cache
